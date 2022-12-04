@@ -1,0 +1,23 @@
+input,
+    select {
+      display: block;
+      margin: 5px 40px;
+      font-size: 20px;
+      padding: 1%;
+      
+    }
+    
+    
+    .login {
+      width: 400px;
+      border: 1px solid rgb(230, 230, 230);
+      margin: 3% auto;
+      padding: 3%;
+      background: white;
+    }
+    button{
+        height: 30px;
+        width: 20%;
+        color: white;
+        background-color: blueviolet;
+    }
